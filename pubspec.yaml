@@ -1,0 +1,35 @@
+name: ebys
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.2.8+4
+  path: ^1.8.3
+  get_storage: ^2.0.3
+  path_provider:
+  file_picker:
+  open_file:
+  permission_handler:
+  external_path: ^1.0.3
+  intl:
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+

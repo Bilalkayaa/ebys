@@ -1,4 +1,9 @@
 # ebys
+Giriş için
+e-mail adress:baris password:123
+e-mail adress:bilal password:123
+e-mail adress:omer password:123
+e-mail adress:faruk password:123
 
 A new Flutter project.
 
